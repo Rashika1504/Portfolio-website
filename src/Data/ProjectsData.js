@@ -13,7 +13,7 @@ const DUMMY_PROJECTS=[
     {
         projectTitle:'Portfolio Website',
         description: 'It is a personalized portfolio website using the MERN stack to showcase my skills, projects, and achievements. The website features a responsive design, interactive sections for project highlights, and a contact form for seamless communication.',
-        sourceLink:'#',
+        sourceLink:'https://github.com/Rashika1504/Portfolio-website',
         lastUpdated:'Nov 26 2024'
     },
 ];
